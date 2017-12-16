@@ -1,2 +1,2 @@
-# git-
+# git
 git 공부
